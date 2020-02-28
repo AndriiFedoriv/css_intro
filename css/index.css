@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    }
+
+p {
+    color: green;
+}
+
+#chosen {
+    border: 2px solid blue;
+}
+.foo {
+    text-transform: uppercase;
+}
+
+* {
+    background-color: rgb(225, 225, 248);
+}
+
+p :hover {
+    background-color: grey;
+}
+
+div > p {
+    color: yelow;
+}
